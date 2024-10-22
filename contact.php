@@ -1,3 +1,6 @@
 <?php
 
-require 'contact.view.php';
+$heading = "Contact Us";
+
+require 'functions.php';
+require 'views/contact.view.php';
